@@ -9,3 +9,10 @@ This project serves as a foundation exercice in __regression modelling__, design
 * **Environmental Management**: `conda`, `pip`
 * **Model Persistence**: `joblib`
 * **Version Control**L `Git / GitHub`
+
+## Methodology & Key Steps
+The project followed a standard, repordcutible ML Workflow:
+1. **Exploratory Data Analysis (EDA)**: Initial analysis revealed relationships between variables. Visualizations were used to identify feature distributions and potentials outliers.
+2. **Data Processing**: Handled missing calues and scaled numerical features using **StandradScaler** to prevent dominance by features with large ranges.
+3. **Modeling & Training**:
+   * **Basekine Model**: **Linear Regression** was established as the initial            benchmark.
