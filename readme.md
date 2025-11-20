@@ -17,4 +17,4 @@ The project followed a standard, repordcutible ML Workflow:
 3. **Modeling & Training**:
    * **Basekine Model**: **Linear Regression** was established as the initial            benchmark.
    * **Advanced Model**: A **Random Forest Regressor** was implemented to capture        complex, non-linear relationships in the data.
-4. **Evaluation**: Models were strictly evaluated on a held-out test set, focusing on the **Mean Squared Error (MSE)** and **R^2 Score** to assess predictive accuracy and goodness of fit.
+4. **Evaluation**: Models were strictly evaluated on a held-out test set, focusing on the **Mean Squared Error (MSE)** and **R<sup>2</sup> Score** to assess predictive accuracy and goodness of fit.
