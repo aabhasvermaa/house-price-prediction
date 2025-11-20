@@ -3,6 +3,6 @@ This project serves as a foundation exercice in __regression modelling__, design
 
 ## Tech Stack & Libraries
 * **Language**: Python 3.10+
-* **Core Libraries**: \pandas\, \numpy\ (Data Manipulation)
-* **Modeling**: \scikit-learn\ (Linear Regression, Ranadom Forest Regressor)
-* **Visualisation**: \matplotlib\, \seaborn\ (EDA)
+* **Core Libraries**: 'pandas', 'numpy' (Data Manipulation)
+* **Modeling**: 'scikit-learn' (Linear Regression, Ranadom Forest Regressor)
+* **Visualisation**: 'matplotlib', 'seaborn' (EDA)
